@@ -1,8 +1,10 @@
-libgeos-3.4.2
+:repo:deb http://security.ubuntu.com/ubuntu xenial-security main
+libpng12-0
+libgeos-3.6.2
 proj-bin
 proj-data
-libproj0
-libgdal1h
+libproj-dev
+libgdal-dev
 gdal-bin
 libblas3
 liblapack3
@@ -10,7 +12,6 @@ libjasper1
 libquadmath0
 libjson-c-dev
 libatlas-base-dev
-libcblas-dev
 libhdf5-dev
 libhdf5-serial-dev
 libatlas-base-dev
